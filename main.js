@@ -19,5 +19,3 @@ button.addEventListener("click",function(){
     const output = document.querySelector("#output");
     output.textContent = message;
 })
-const face = document.querySelector('#face');
-face.src = 'face.png'
